@@ -1,7 +1,5 @@
 # JokerGame
 
-Created as an interview test and SpriteKit training project.
-
 ## Technology stack:
 - iOS SDK.
 - Swift.
@@ -11,7 +9,7 @@ Created as an interview test and SpriteKit training project.
 
 ## Description
 
-Was created as a test task for an interview. Shows weather considering your current geolocation.
+Created as an interview test and SpriteKit training project.
 
 ## Screenshots
 
